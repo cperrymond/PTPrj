@@ -1,0 +1,6 @@
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\TopSecretCSharp\TopSecretCSharp\bin\Debug\TopSecretCSharp.exe.config
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\TopSecretCSharp\TopSecretCSharp\bin\Debug\TopSecretCSharp.exe
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\TopSecretCSharp\TopSecretCSharp\bin\Debug\TopSecretCSharp.pdb
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\TopSecretCSharp\TopSecretCSharp\obj\Debug\TopSecretCSharp.exe
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\TopSecretCSharp\TopSecretCSharp\obj\Debug\TopSecretCSharp.pdb
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\TopSecretCSharp\TopSecretCSharp\obj\Debug\Interview.csprojResolveAssemblyReference.cache
